@@ -2,16 +2,16 @@
 
 ## Pythonの基礎
 
-+ basic_python.ipynb --- pythonの基礎
-+ basic_numpy.ipynb --- numpyの基礎（ベクトルと行列の計算）
-+ plot_python.ipynb --- pythonでのグラフの作成
++ [basic_python.ipynb](https://github.com/namoshi/ml_intro/blob/master/basic_python.ipynb "basic_python.ipynb") --- pythonの基礎
++ [basic_numpy.ipynb](https://github.com/namoshi/ml_intro/blob/master/basic_numpy.ipynb) --- numpyの基礎（ベクトルと行列の計算）
++ [plot_python.ipynb](https://github.com/namoshi/ml_intro/blob/master/plot_python.ipynb) --- pythonでのグラフの作成
 
 ## ベイズ識別
 
-+ bayes_iris_2d.ipynb  --- Fisherのアヤメのデータのベイズ識別（ガクの長さと幅の2次元の特徴を使用，各クラスの条件付確率分布として正規分布を仮定し事後確率を推定（2次識別関数））
-+ Bayes_iris.ipynb ---  Fisherのアヤメのデータのベイズ識別（ガクの長さと幅，花びらの長さと幅の4次元特徴を使用，各クラスの条件付確率分布として正規分布を仮定し事後確率を推定（2次識別関数）） 
-+ knn-iris_2d.ipynb --- K-近傍法によるアヤメのデータのベイズ識別（ガクの長さと幅の2次元の特徴を使用）
-+ gmm-iris_2d.ipynb --- Gaussian Mixture Modelによるアヤメのデータの識別（ガクの長さと幅の2次元の特徴を使用，各クラスの条件付確率分布をGauusian Mixture Modelで推定し，事後確率を計算）
++ [bayes_iris_2d.ipynb](https://github.com/namoshi/ml_intro/blob/master/bayes_iris_2d.ipynb)  --- Fisherのアヤメのデータのベイズ識別（ガクの長さと幅の2次元の特徴を使用，各クラスの条件付確率分布として正規分布を仮定し事後確率を推定（2次識別関数））
++ [Bayes_iris.ipynb](https://github.com/namoshi/ml_intro/blob/master/Bayes_iris.ipynb) ---  Fisherのアヤメのデータのベイズ識別（ガクの長さと幅，花びらの長さと幅の4次元特徴を使用，各クラスの条件付確率分布として正規分布を仮定し事後確率を推定（2次識別関数）） 
++ [knn-iris_2d.ipynb](https://github.com/namoshi/ml_intro/blob/master/knn-iris_2d.ipynb) --- K-近傍法によるアヤメのデータのベイズ識別（ガクの長さと幅の2次元の特徴を使用）
++ [gmm-iris_2d.ipynb](https://github.com/namoshi/ml_intro/blob/master/gmm-iris_2d.ipynb) --- Gaussian Mixture Modelによるアヤメのデータの識別（ガクの長さと幅の2次元の特徴を使用，各クラスの条件付確率分布をGauusian Mixture Modelで推定し，事後確率を計算）
 
 
 
@@ -27,4 +27,7 @@
 + adaline_iris_2d.ipynb  ---   ADALINEによるアヤメのデータ（2クラス，2次元）の識別
 + logit_iris_2d.ipynb --- ロジスティック回帰によるアヤメのデータ（2クラス，2次元）の識別
 
+## 情報抽出酒てょう
+
++ [CCA,ipynb](https://github.com/namoshi/ml_intro/blob/master/CCA.ipynb "CCV.ipynb") --- 正順相関分析(Canonical Correlation Analysis）
 
