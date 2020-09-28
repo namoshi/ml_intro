@@ -58,9 +58,4 @@
 + [Kmeans_digit.ipynb](https://github.com/namoshi/ml_intro/blob/master/Kmeans_digit.ipynb)  ---  K-means法（数字データ）
 + [Kmeans_color_quantization.ipynb](https://github.com/namoshi/ml_intro/blob/master/Kmeans_color_quantization.ipynb)  ---  K-Means法（色空間のクラスタリング（色の量子化））
 
-## ディープラーニング
-
-+ [convolution.ipynb](https://github.com/namoshi/ml_intro/blob/master/convolution.ipynb)  ---  1次元のコンボリューションの例
-
-
 
