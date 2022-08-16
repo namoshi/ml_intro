@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 alpha = 0.003
 
 # read iris data from file 
-iris = np.loadtxt('iris.dat')
+iris = np.loadtxt('niris.dat')
 nr, nc = iris.shape
 
 # feature vectors of each class
