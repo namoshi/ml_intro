@@ -29,7 +29,9 @@ T[0:50] = 1
 # initialize the weights of the perceptron
 #
 W = (np.random.rand(nc)-0.5) / 1000.0
-h = ((np.random.rand(1) - 0.5) / 1000.0)[0]
+h = ((np.random.rand(1) - 0.5) / 1000.0)[0] - 0.5
+print('h=', h)
+print('W\n', W)
 YY = np.zeros(100)
 EE = np.zeros(100)
 
