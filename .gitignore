@@ -121,3 +121,6 @@ dmypy.json
 .Rhistory
 .RData
 .DS_Store
+
+# Data Folder
+data
